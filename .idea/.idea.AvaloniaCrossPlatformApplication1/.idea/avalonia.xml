@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="AvaloniaCrossPlatformApplication1/AvaloniaCrossPlatformApplication1/App.axaml" value="AvaloniaCrossPlatformApplication1/AvaloniaCrossPlatformApplication1.Desktop/AvaloniaCrossPlatformApplication1.Desktop.csproj" />
+        <entry key="AvaloniaCrossPlatformApplication1/AvaloniaCrossPlatformApplication1/Views/MainView.axaml" value="AvaloniaCrossPlatformApplication1/AvaloniaCrossPlatformApplication1.Desktop/AvaloniaCrossPlatformApplication1.Desktop.csproj" />
+        <entry key="AvaloniaCrossPlatformApplication1/AvaloniaCrossPlatformApplication1/Views/MainWindow.axaml" value="AvaloniaCrossPlatformApplication1/AvaloniaCrossPlatformApplication1.Desktop/AvaloniaCrossPlatformApplication1.Desktop.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
